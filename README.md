@@ -6,6 +6,8 @@ A knowledgebase and conceptual framework for philosophy, cognition, and semantic
 
 This project exists as an ongoing exploration of philosophical, cognitive, and semantic structures. Its purpose is not fixed or fully known; rather, it is an attempt to clarify, organize, and experiment with concepts that shape understanding and prediction. The framework serves as a laboratory for thought, a reference for future inquiry, and a resource for anyone interested in the architecture of meaning.
 
+An emerging, deeper purpose is the reverse engineering of the entirety of epistemology: systematically deconstructing and reconstructing the foundations, mechanisms, and boundaries of knowledge itself. This effort aims to make explicit the hidden architecture of knowing, learning, and meaning-making.
+
 Motivation for this effort is itself a subject of inquiry—part curiosity, part necessity, part the drive to make sense of complexity. The work is open-ended, reflecting both the limits and possibilities of philosophical investigation.
 
 ## Overview
