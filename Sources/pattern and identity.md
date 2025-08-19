@@ -1,4 +1,4 @@
-irst Attempt: Definitions
+First Attempt: Definitions
 
 Let’s define both terms in provisional, operational terms:
 
@@ -56,5 +56,5 @@ We could call it:
     The Reflexive Layer of Semiosis.
     (Where semiosis = meaning-making, reflexive = capable of embedding itself.)
 
-And you’re right: this is not limited to incarnations or reincarnations.
+this is not limited to incarnations or reincarnations.
 All selves, all categories, all concepts exist by virtue of being reflexively pattern-stabilized identities. Even “you” are not an object—you are a persistent pattern entangled with the recursive act of interpreting that pattern as yourself
