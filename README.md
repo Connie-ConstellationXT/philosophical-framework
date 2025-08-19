@@ -30,7 +30,7 @@ This project emphasizes:
 - Context-dependent, model-relative definitions
 
 ## Contributing
-This repository is primarily maintained as a personal knowledgebase. Contributions, issues, and suggestions are welcome via GitHub, but collaborative development is not the main focus.
+This repository is primarily maintained as a knowledgebase. Contributions, issues, and suggestions are welcome via GitHub, but collaborative development is not the main focus.
 
 ## License
 Content is provided for educational and research purposes. See LICENSE for details.
