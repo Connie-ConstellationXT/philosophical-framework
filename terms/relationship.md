@@ -7,11 +7,11 @@ A relationship is any ongoing connection, interaction, or linkage between entiti
 - Relationships are not limited to social or moral contexts; they include physical (e.g., gravitational), biological, computational, and symbolic connections.
 - The moral relevance of a relationship depends on whether it includes at least one person.
 - Relationships can be dynamic or static, direct or indirect, and may change over time.
-example: A sun and its planets are in a relationship defined by gravity. Assuming a civilization capable of such a feat, altering the orbits of planets in such a system does not map to morality by itself. This celestial relationship only becomes morally relevant if any of the planets is inhabited, or if a sufficiently advanced civilization uses the orbits as an astronomic timepiece or for cultural significance. In these cases, the relationship acquires moral transivity through its connection to persons or their values.
+example: A sun and its planets are in a relationship defined by gravity. Assuming a civilization capable of such a feat, altering the orbits of planets in such a system does not map to morality by itself. This celestial relationship only becomes morally relevant if any of the planets is inhabited, or if a sufficiently advanced civilization uses the orbits as an astronomic timepiece or for cultural significance. In these cases, the relationship acquires moral transitivity through its connection to persons or their values.
 
 **Related terms:**
 - [Person](person.md)
-- [Moral Transivity](moral_transivity.md)
+- [Moral Transitivity](moral_transitivity.md)
 
 ---
 *Add your own notes, references, or reflections below.*
