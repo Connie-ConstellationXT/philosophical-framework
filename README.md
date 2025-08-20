@@ -9,6 +9,9 @@ A copy of the license is included in the section entitled "GNU Free Documentatio
 
 A knowledgebase and conceptual framework for philosophy, cognition, and semantic modeling.
 
+**Disclaimer:**
+None of the claims, definitions, or statements in this repository are authoritative, nor do they constitute legal or medical advice. All content is an attempt to explore meaning and cognition through the lens of the universality of neural networks, regardless of the substrate on which those networks run.
+
 ## Purpose
 
 This project exists as an ongoing exploration of philosophical, cognitive, and semantic structures. Its purpose is not fixed or fully known; rather, it is an attempt to clarify, organize, and experiment with concepts that shape understanding and prediction. The framework serves as a laboratory for thought, a reference for future inquiry, and a resource for anyone interested in the architecture of meaning.
