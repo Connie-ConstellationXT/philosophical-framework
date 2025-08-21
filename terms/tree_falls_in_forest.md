@@ -33,6 +33,7 @@ void Riddle()
 - In this formalization, `MaterialOscillator` represents the objective event (tree falling), while `AuditoryQualia` represents the subjective experience of sound.
 - The inability to cast or instantiate these types directly reflects the philosophical gap between physical reality and qualia.
 - The interface `Noise` is implemented by both, but the mapping between them is not guaranteed or directly accessible.
+- In most object-oriented programming languages, interfaces themselves cannot be instantiated, which is why attempting to create `new Noise()` results in a compiler error.
 - This models the epistemic uncertainty at the heart of the riddle: does unperceived sound exist as qualia, or only as physical oscillation?
 
 **Related terms:**
