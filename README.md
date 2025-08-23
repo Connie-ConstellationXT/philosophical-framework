@@ -14,7 +14,10 @@ None of the claims, definitions, or statements in this repository are authoritat
 
 ## Purpose
 
-This project exists as an ongoing exploration of philosophical, cognitive, and semantic structures. Its purpose is not fixed or fully known; rather, it is an attempt to clarify, organize, and experiment with concepts that shape understanding and prediction. The framework serves as a laboratory for thought, a reference for future inquiry, and a resource for anyone interested in the architecture of meaning.
+
+This project aims to establish a philosophical framework for the era of artificial intelligence. Where Descartes began with "I think, therefore I am" as his first axiomatic assumption, this framework begins with a different axiom: all neural networks are interchangeable. This is supported by examples: the neural network in a large language model (LLM) predicts the next token in a text, while the neural network in a human brain predicts whether the rustling in a bush is just the wind, or a sabretooth tiger™ whose next action will be terminating that human's bloodline. The substrate does not matter; the only difference between AI and human brains is external—the environment. Much of the phenomenology of human conscious experience can be explained by pointing at machine learning.
+
+The project remains an ongoing exploration of philosophical, cognitive, and semantic structures. Its purpose is not fixed or fully known; rather, it is an attempt to clarify, organize, and experiment with concepts that shape understanding and prediction. The framework serves as a laboratory for thought, a reference for future inquiry, and a resource for anyone interested in the architecture of meaning.
 
 An emerging, deeper purpose is the reverse engineering of the entirety of epistemology: systematically deconstructing and reconstructing the foundations, mechanisms, and boundaries of knowledge itself. This effort aims to make explicit the hidden architecture of knowing, learning, and meaning-making.
 
